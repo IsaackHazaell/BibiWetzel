@@ -10,7 +10,7 @@ body
     line-height: 35px;
     font-weight: 400;
     letter-spacing: -1px;
-    color: #FF0000;
+    color: #404040;
     background-color: #fff;
 }
 
@@ -22,7 +22,7 @@ body
 body a
 {
     text-decoration: none;
-    color: #FF0000;
+    color: #404040;
     transition: color .2s linear, background-color .2s linear, border-color .2s linear;
 }
 
@@ -157,7 +157,7 @@ input, textarea, select
 .sidebar
 {
     position: absolute;
-    background-color: #FF0000;
+    background-color: #2D2D2D;
     height: 100% !important;
     width: 420px;
     left: -320px;
@@ -178,7 +178,7 @@ input, textarea, select
 {
     width: 320px;
     position: absolute;
-    background: #FF0000;
+    background: #333333;
     height: 100%;
     overflow-y: auto;
     overflow-x: hidden;
@@ -192,7 +192,7 @@ input, textarea, select
     height: 100px;
     font-size: 18px;
     padding-left: 50px;
-    background-color: #FF0000;
+    background-color: #2D2D2D;
     color: #5B5B5B;
     border: none;
 }
@@ -310,7 +310,7 @@ input, textarea, select
     height: 60px;
     padding: 20px 0;
     position: relative;
-    background-color: #FF0000;
+    background-color: #333333;
 }
 
 #toggle:hover
@@ -816,7 +816,7 @@ body.open .site-content
 {
     font-size: 16px;
     line-height: 27px;
-    color: #FF0000;
+    color: #404040;
     padding: 40px 60px 40px 60px;
 }
 
@@ -901,7 +901,7 @@ body.open .site-content
 .contact-form input[type=text]::-webkit-input-placeholder, .contact-form input[type=email]::-webkit-input-placeholder, .contact-form textarea::-webkit-input-placeholder
 {
     font-family: 'Montserrat', sans-serif, Arial;
-    color: #FF0000;
+    color: #404040;
     font-weight: 700;
     font-size: 20px;
     line-height: 25px;
@@ -910,7 +910,7 @@ body.open .site-content
 .contact-form input[type=text]::-moz-placeholder, .contact-form input[type=email]::-moz-placeholder, .contact-form textarea::-moz-placeholder
 {
     font-family: 'Montserrat', sans-serif, Arial;
-    color: #FF0000;
+    color: #404040;
     font-weight: 700;
     font-size: 20px;
     line-height: 25px;
@@ -920,7 +920,7 @@ body.open .site-content
 .contact-form input[type=text]:-ms-input-placeholder, .contact-form input[type=email]:-ms-input-placeholder, .contact-form textarea:-ms-input-placeholder
 {
     font-family: 'Montserrat', sans-serif, Arial;
-    color: #FF0000;
+    color: #404040;
     font-weight: 700;
     font-size: 20px;
     line-height: 25px;
@@ -929,7 +929,7 @@ body.open .site-content
 .contact-form input[type=text]:-moz-placeholder, .contact-form input[type=email]:-moz-placeholder, .contact-form textarea:-moz-placeholder
 {
     font-family: 'Montserrat', sans-serif, Arial;
-    color: #FF0000;
+    color: #404040;
     font-weight: 700;
     font-size: 20px;
     line-height: 25px;
@@ -1226,7 +1226,7 @@ body.open .site-content
         height: auto;
         left: 0 !important;
         border-right: 0;
-        border-bottom: 10px solid #FF0000;
+        border-bottom: 10px solid #2d2d2d;
     }
 
     .full-screen-scroll article
